@@ -151,3 +151,12 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ls --color=auto
 ls --color=auto -l
+more has
+__vsc_prompt_cmd_original
+more has-flag/
+cd has-flag/
+ls --color=auto
+ls --color=auto -l
+cd..
+cd ..
+cd has
